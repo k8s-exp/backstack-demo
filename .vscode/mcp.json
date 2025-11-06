@@ -1,8 +1,8 @@
 {
-	"servers": {
-		"dev": {
-			"url": "https://localhost/api/mcp-actions/v1",
-			"type": "http"
-		}
-	}
+  "servers": {
+    "dev": {
+      "url": "http://localhost:7007/api/mcp-actions/v1",
+      "type": "http"
+    }
+  }
 }
